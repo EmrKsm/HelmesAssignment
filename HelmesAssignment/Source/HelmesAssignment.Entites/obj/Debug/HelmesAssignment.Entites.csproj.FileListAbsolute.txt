@@ -1,0 +1,5 @@
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Entites\bin\Debug\HelmesAssignment.Entites.dll
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Entites\bin\Debug\HelmesAssignment.Entites.pdb
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Entites\obj\Debug\HelmesAssignment.Entites.csproj.CoreCompileInputs.cache
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Entites\obj\Debug\HelmesAssignment.Entites.dll
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Entites\obj\Debug\HelmesAssignment.Entites.pdb

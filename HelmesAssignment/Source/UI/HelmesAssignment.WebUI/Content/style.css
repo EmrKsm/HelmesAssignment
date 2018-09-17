@@ -1,0 +1,25 @@
+﻿input:invalid {
+    border: 2px dashed red;
+}
+
+input:valid {
+    border: 2px solid black;
+}
+
+select:invalid {
+    border: 2px dashed red;
+}
+
+select:valid {
+    border: 2px solid black;
+}
+
+input[type=checkbox] + label {
+    color: red;
+    font-style: italic;
+}
+
+input[type=checkbox]:checked + label {
+    color: black;
+    font-style: normal;
+} 

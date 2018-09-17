@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script type="text/javascript" src="Content/ErrorHandler.js" ></script>
+    <script type="text/javascript" src="Content/jquery-3.3.1.min.js" ></script>
+    <script type="text/javascript" src="Content/SectorFeeder.js" ></script>
+    <script type="text/javascript" src="Content/SectorLoader.js" ></script>
+    <script type="text/javascript" src="Content/UserInputAction.js" ></script>
+    <link rel="stylesheet" type="text/css" href="Content/style.css" />
+</head>
+<body onload="loadSectorList()">
+    Please enter your name and pick the Sectors you are currently involved in.
+    <br />
+    <br />
+    Name:
+    <input id="userName" type="text" required>
+    <br />
+    <br />
+    Sectors:
+    <select id="sectors" multiple size="5" required></select>
+    <br />
+    <br />
+    <input id="termsCheck" type="checkbox" required> <label>Agree to terms</label>
+    <br />
+    <br />
+    <input id="saveBtn" type="submit" value="Save" onclick="UserInputAction()">
+
+    <div id="error"></div>
+</body>
+</html>

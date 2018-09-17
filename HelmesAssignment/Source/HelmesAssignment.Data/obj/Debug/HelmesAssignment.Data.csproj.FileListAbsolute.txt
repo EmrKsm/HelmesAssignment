@@ -1,0 +1,14 @@
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Data\bin\Debug\HelmesAssignment.Data.dll.config
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Data\bin\Debug\HelmesAssignment.Data.dll
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Data\bin\Debug\HelmesAssignment.Data.pdb
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Data\bin\Debug\EntityFramework.dll
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Data\bin\Debug\EntityFramework.SqlServer.dll
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Data\bin\Debug\HelmesAssignment.Entites.dll
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Data\bin\Debug\HelmesAssignment.Entites.pdb
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Data\bin\Debug\EntityFramework.xml
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Data\bin\Debug\EntityFramework.SqlServer.xml
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Data\obj\Debug\HelmesAssignment.Data.csprojAssemblyReference.cache
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Data\obj\Debug\HelmesAssignment.Data.csproj.CoreCompileInputs.cache
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Data\obj\Debug\HelmesAssignment.Data.csproj.CopyComplete
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Data\obj\Debug\HelmesAssignment.Data.dll
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Data\obj\Debug\HelmesAssignment.Data.pdb

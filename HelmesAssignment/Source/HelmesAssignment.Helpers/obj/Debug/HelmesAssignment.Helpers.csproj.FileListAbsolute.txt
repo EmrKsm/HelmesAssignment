@@ -1,0 +1,6 @@
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Helpers\bin\Debug\HelmesAssignment.Helpers.dll
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Helpers\bin\Debug\HelmesAssignment.Helpers.pdb
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Helpers\obj\Debug\HelmesAssignment.Helpers.csprojAssemblyReference.cache
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Helpers\obj\Debug\HelmesAssignment.Helpers.csproj.CoreCompileInputs.cache
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Helpers\obj\Debug\HelmesAssignment.Helpers.dll
+Z:\VS2017 Projects\HelmesAssignment\Source\HelmesAssignment.Helpers\obj\Debug\HelmesAssignment.Helpers.pdb
